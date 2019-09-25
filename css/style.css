@@ -6,3 +6,6 @@ body {
   margin: 0 auto;
   padding: 50px;
 }
+ p:first-of-type {
+   font-size: 12px;
+ }
